@@ -34,7 +34,7 @@ app.component('review-form', {
         name: '',
         review: '',
         rating: null,
-        // solution
+        // solution//
         recommend: null
         // solution
       }
